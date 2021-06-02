@@ -20,4 +20,4 @@ hello!
 
 ## Why?
 
-It's like https://github.com/go-task/task, but without YAML and Go.
+It's like https://github.com/go-task/task, but without YAML and Go. (Nothing wrong about Go as a language, but runner script should have zero dependencies of its own, if possible.)
