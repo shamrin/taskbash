@@ -17,3 +17,7 @@ chmod +x run
 $ ./run hello
 hello!
 ```
+
+## Why?
+
+It's like https://github.com/go-task/task, but without YAML and Go.
